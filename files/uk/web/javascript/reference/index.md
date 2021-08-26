@@ -20,7 +20,7 @@ tags:
 
 ## Вбудовані об'єкти
 
-[Стандартні вбудовані об'єкти JavaScript](/en-US/docs/Web/JavaScript/Reference/Global_Objects), разом з їхніми властивостями і методами.
+[Стандартні вбудовані об'єкти JavaScript](/en-US/docs/Web/JavaScript/Reference/Global_Objects), разом з їхніми властивостями та методами.
 
 ### Властивості-значення
 
@@ -101,7 +101,7 @@ tags:
 - {{JSxRef("Atomics")}}
 - {{JSxRef("JSON")}}
 
-### Управління пам'яттю
+### Керування пам'яттю
 
 - {{JSxRef("WeakRef")}}
 - {{JsxRef("FinalizationRegistry")}}
@@ -149,8 +149,8 @@ tags:
 
 ### Керування потоком виконання
 
-- {{jsxref("Statements/block", "Block", "", 1)}}
-- {{jsxref("Statements/Empty", "Empty statement", "", 1)}}
+- {{jsxref("Statements/block", "Блок", "", 1)}}
+- {{jsxref("Statements/Empty", "Порожня інструкція", "", 1)}}
 - {{jsxref("Statements/break", "break")}}
 - {{jsxref("Statements/continue", "continue")}}
 - {{jsxref("Statements/if...else", "if...else")}}
@@ -207,13 +207,13 @@ tags:
 - {{JSxRef("Global_Objects/Array", "[]")}}
 - {{JSxRef("Operators/Object_initializer", "{}")}}
 - {{JSxRef("Global_Objects/RegExp", "/ab+c/i")}}
-- {{JSxRef("Operators/Grouping", "( )")}}
+- {{JSxRef("Operators/Grouping", "()")}}
 - {{JSxRef("null")}}
 
 ### Вирази лівої сторони
 
-- {{JSxRef("Operators/Property_accessors", "Property accessors", "", 1)}}
-- {{JSxRef("Operators/Optional_chaining", "<code>?.</code> (Optional chaining)", "", 1)}}
+- {{JSxRef("Operators/Property_accessors", "Оператори доступу", "", 1)}}
+- {{JSxRef("Operators/Optional_chaining", "<code>?.</code> (оператор необов'язкової послідовності)", "", 1)}}
 - {{JSxRef("Operators/new", "new")}}
 - {{JSxRef("Operators/new%2Etarget", "new.target")}}
 - {{JSxRef("Statements/import%2Emeta", "import.meta")}}
@@ -322,5 +322,5 @@ tags:
 
 - [Лексична граматика](/en-US/docs/Web/JavaScript/Reference/Lexical_grammar)
 - [Типи та структури даних](/en-US/docs/Web/JavaScript/Data_structures)
-- [Суворий режжим](/en-US/docs/Web/JavaScript/Reference/Strict_mode)
+- [Суворий режим](/en-US/docs/Web/JavaScript/Reference/Strict_mode)
 - [Застарілий функціонал](/en-US/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features)
